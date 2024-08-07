@@ -1,0 +1,43 @@
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+#app {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+table {
+    margin-top: 50px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th {
+    background: rgb(59, 57, 57);
+    color: aliceblue;
+    text-align: left;
+    padding: 15px;
+
+}
+
+table tr {
+    background: #eee;
+}
+
+table td {
+    padding: 15px;
+    text-align: left;
+
+
+}
